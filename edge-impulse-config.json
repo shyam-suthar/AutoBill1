@@ -1,0 +1,11 @@
+{
+    "host": "edgeimpulse.com",
+    "jwtToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjE3Mzk3MCwicGVybWlzc2lvbnMiOltdLCJpYXQiOjE3MTM1MTQyNjgsImV4cCI6MTcxNjEwNjI2OH0.SKxjXB6ZbN_ftdlaB4equVa2wioWUaujwblheDxRFf0",
+    "lastVersionCheck": 1713514243237,
+    "dataForwarderDevices": {},
+    "daemonDevices": {},
+    "runner": {},
+    "linuxProjectId": 383120,
+    "audio": "hw:3,0",
+    "camera": "GC21 Video"
+}
